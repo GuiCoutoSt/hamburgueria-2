@@ -1,6 +1,6 @@
-# Hamburgueria 2.0 🍔
+# Hamburgueria 🍔
 
-A hamburgueria consiste em uma simples aplicação desenvolvida para fixar conceitos de TypeScript. Tem Login, Cadastro, Dashboard e um Carrinho.
+A hamburgueria consiste em uma simples aplicação de marketplace desenvolvida para fixar conceitos de TypeScript. Tem Login, Cadastro, Dashboard e um Carrinho.
 
 ## Techs
 - `ReactJs`
@@ -8,3 +8,5 @@ A hamburgueria consiste em uma simples aplicação desenvolvida para fixar conce
 - `Context API`
 - `Chakra UI`
 
+## Live Demonstration
+[Hamburgueria](https://hamburgueria-pied.vercel.app/)
