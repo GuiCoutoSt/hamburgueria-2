@@ -7,6 +7,7 @@ A hamburgueria consiste em uma simples aplicação de marketplace desenvolvida p
 - `Typescript`
 - `Context API`
 - `Chakra UI`
+- `Vercel`
 
 ## Live Demonstration
 [Hamburgueria](https://hamburgueria-pied.vercel.app/)
